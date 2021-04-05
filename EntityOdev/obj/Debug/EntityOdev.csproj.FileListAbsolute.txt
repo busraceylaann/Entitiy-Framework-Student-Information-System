@@ -1,0 +1,36 @@
+C:\Users\BÜŞRA CEYLAN\source\repos\EntityOdev\EntityOdev\bin\Debug\EntityOdev.exe.config
+C:\Users\BÜŞRA CEYLAN\source\repos\EntityOdev\EntityOdev\bin\Debug\EntityOdev.exe
+C:\Users\BÜŞRA CEYLAN\source\repos\EntityOdev\EntityOdev\bin\Debug\EntityOdev.pdb
+C:\Users\BÜŞRA CEYLAN\source\repos\EntityOdev\EntityOdev\bin\Debug\EntityFramework.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\EntityOdev\EntityOdev\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\EntityOdev\EntityOdev\bin\Debug\EntityFramework.xml
+C:\Users\BÜŞRA CEYLAN\source\repos\EntityOdev\EntityOdev\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BÜŞRA CEYLAN\source\repos\EntityOdev\EntityOdev\obj\Debug\EntityOdev.csprojAssemblyReference.cache
+C:\Users\BÜŞRA CEYLAN\source\repos\EntityOdev\EntityOdev\obj\Debug\EntityOdev.Form1.resources
+C:\Users\BÜŞRA CEYLAN\source\repos\EntityOdev\EntityOdev\obj\Debug\EntityOdev.Properties.Resources.resources
+C:\Users\BÜŞRA CEYLAN\source\repos\EntityOdev\EntityOdev\obj\Debug\EntityOdev.csproj.GenerateResource.cache
+C:\Users\BÜŞRA CEYLAN\source\repos\EntityOdev\EntityOdev\obj\Debug\EntityOdev.csproj.CoreCompileInputs.cache
+C:\Users\BÜŞRA CEYLAN\source\repos\EntityOdev\EntityOdev\obj\Debug\EntityOdev.csproj.CopyComplete
+C:\Users\BÜŞRA CEYLAN\source\repos\EntityOdev\EntityOdev\obj\Debug\EntityOdev.exe
+C:\Users\BÜŞRA CEYLAN\source\repos\EntityOdev\EntityOdev\obj\Debug\EntityOdev.pdb
+C:\Users\BÜŞRA CEYLAN\source\repos\EntityOdev\EntityOdev\obj\Debug\EntityOdev.ogrenci.resources
+C:\Users\BÜŞRA CEYLAN\source\repos\EntityOdev\EntityOdev\obj\Debug\EntityOdev.derscs.resources
+C:\Users\BÜŞRA CEYLAN\source\repos\EntityOdev\EntityOdev\obj\Debug\EntityOdev.notlar.resources
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\EntityOdev\EntityOdev\bin\Debug\EntityOdev.exe.config
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\EntityOdev\EntityOdev\bin\Debug\EntityOdev.exe
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\EntityOdev\EntityOdev\bin\Debug\EntityOdev.pdb
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\EntityOdev\EntityOdev\bin\Debug\EntityFramework.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\EntityOdev\EntityOdev\bin\Debug\EntityFramework.SqlServer.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\EntityOdev\EntityOdev\bin\Debug\EntityFramework.xml
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\EntityOdev\EntityOdev\bin\Debug\EntityFramework.SqlServer.xml
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\EntityOdev\EntityOdev\obj\Debug\EntityOdev.csprojAssemblyReference.cache
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\EntityOdev\EntityOdev\obj\Debug\EntityOdev.derscs.resources
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\EntityOdev\EntityOdev\obj\Debug\EntityOdev.Form1.resources
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\EntityOdev\EntityOdev\obj\Debug\EntityOdev.notlar.resources
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\EntityOdev\EntityOdev\obj\Debug\EntityOdev.ogrenci.resources
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\EntityOdev\EntityOdev\obj\Debug\EntityOdev.Properties.Resources.resources
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\EntityOdev\EntityOdev\obj\Debug\EntityOdev.csproj.GenerateResource.cache
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\EntityOdev\EntityOdev\obj\Debug\EntityOdev.csproj.CoreCompileInputs.cache
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\EntityOdev\EntityOdev\obj\Debug\EntityOdev.csproj.CopyComplete
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\EntityOdev\EntityOdev\obj\Debug\EntityOdev.exe
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\EntityOdev\EntityOdev\obj\Debug\EntityOdev.pdb
